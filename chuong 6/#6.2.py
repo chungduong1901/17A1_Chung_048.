@@ -1,0 +1,11 @@
+#6.2
+x=10
+y=5
+tong=x+y
+hieu=x-y
+tich=x*y
+thuong=x/y
+print("tổng:",tong)
+print("hiệu:",hieu)
+print("tích:",tich)
+print("thương",thuong)
